@@ -1,0 +1,2 @@
+serviceClass: fr.istic.client.ConsoService
+path: ADC8A38407C891CA78AB7F48F3C3F6E4.gwt.rpc

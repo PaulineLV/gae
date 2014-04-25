@@ -1,0 +1,37 @@
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+fr.istic.client.ConsoService, false, false, false, false, _, 1704952778
+fr.istic.shared.ElectronicDevice, true, true, true, true, fr.istic.shared.ElectronicDevice/1683902836, 1683902836
+@ClientFields,fr.istic.shared.ElectronicDevice,conso,home
+[Lfr.istic.shared.ElectronicDevice;, true, true, true, true, [Lfr.istic.shared.ElectronicDevice;/1799110691, 1799110691
+fr.istic.shared.Heater, true, true, true, true, fr.istic.shared.Heater/3491590737, 3491590737
+@ClientFields,fr.istic.shared.Heater,conso,home
+[Lfr.istic.shared.Heater;, true, true, true, true, [Lfr.istic.shared.Heater;/1447527934, 1447527934
+fr.istic.shared.Home, true, true, true, true, fr.istic.shared.Home/1932828331, 1932828331
+@ClientFields,fr.istic.shared.Home,id,adresse,superficie,adresseIP,person,periphs
+[Lfr.istic.shared.Home;, true, true, true, true, [Lfr.istic.shared.Home;/3862335100, 3862335100
+fr.istic.shared.Peripherique, true, true, true, true, fr.istic.shared.Peripherique/1762392716, 1762392716
+@ClientFields,fr.istic.shared.Peripherique,id,conso
+[Lfr.istic.shared.Peripherique;, true, true, true, true, [Lfr.istic.shared.Peripherique;/3003280776, 3003280776
+fr.istic.shared.Person, true, true, true, true, fr.istic.shared.Person/4280501504, 4280501504
+@ClientFields,fr.istic.shared.Person,id,nom,prenom,genre,dateNaissance,profilFacebook,homes
+java.lang.Boolean, true, true, true, true, java.lang.Boolean/476441737, 476441737
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.Long, true, true, true, true, java.lang.Long/4227064769, 4227064769
+java.lang.Number, true, false, true, false, java.lang.Number/300033342, 300033342
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.ArrayList, true, true, true, true, java.util.ArrayList/4159755760, 4159755760
+java.util.Arrays$ArrayList, true, true, true, true, java.util.Arrays$ArrayList/2507071751, 2507071751
+java.util.Collections$EmptyList, true, true, true, true, java.util.Collections$EmptyList/4157118744, 4157118744
+java.util.Collections$EmptySet, true, true, true, true, java.util.Collections$EmptySet/3523698179, 3523698179
+java.util.Collections$SingletonList, true, true, true, true, java.util.Collections$SingletonList/1586180994, 1586180994
+java.util.HashSet, true, true, true, true, java.util.HashSet/3273092938, 3273092938
+java.util.LinkedHashSet, true, true, true, true, java.util.LinkedHashSet/1826081506, 1826081506
+java.util.LinkedList, true, true, true, true, java.util.LinkedList/3953877921, 3953877921
+java.util.Stack, true, true, true, true, java.util.Stack/1346942793, 1346942793
+java.util.TreeMap, true, true, true, true, java.util.TreeMap/1493889780, 1493889780
+java.util.TreeSet, true, true, true, true, java.util.TreeSet/4043497002, 4043497002
+java.util.Vector, true, true, true, true, java.util.Vector/3057315478, 3057315478
